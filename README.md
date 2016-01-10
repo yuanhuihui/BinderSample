@@ -20,7 +20,7 @@ Binder sample程序，分为app, framework, native三大类，每一类生成的
 
 ### 1.2 分层图
 
-![native_binder_demo](\_images\native_binder_demo.jpg)
+![native_binder_demo](/_images/native_binder_demo.jpg)
 
 ### 1.3 运行
 
@@ -34,11 +34,11 @@ Binder sample程序，分为app, framework, native三大类，每一类生成的
 
 服务端运行结果：
 
-![native_server](\_images\native_server.png)
+![native_server](/_images/native_server.png)
 
 客户端运行结果：
 
-![native_client](\_images\native_client.png)
+![native_client](/_images/native_client.png)
 
 
 ## 二、 Framework Binder
@@ -60,7 +60,7 @@ Client端
 
 ### 2.2 分层图
 
-![framework_binder_demo](\_images\framework_binder_demo.jpg)
+![framework_binder_demo](/_images/framework_binder_demo.jpg)
 
 
 ### 2.3 运行
@@ -77,11 +77,11 @@ Client端
 
 服务端运行结果：
 
-![framework_server](\_images\framework_server.png)
+![framework_server](/_images/framework_server.png)
 
 客户端运行结果：
 
-![framework_client](\_images\framework_client.png)
+![framework_client](/_images/framework_client.png)
 
 
 ## 三、 Apk Binder
@@ -96,20 +96,20 @@ Client端
 
 ### 3.2 分层图
 
-![app_binder_demo](\_images\app_binder_demo.jpg)
+![app_binder_demo](/_images/app_binder_demo.jpg)
 
 ### 3.3 运行
 由/AppBinderDemo/路径下的代码生成的Apk，已经放到/Output/appBinderDemo/BinderDemo.apk。
 
 将apk安装到手机，打开apk界面如下：
 
-![apk](\_images\apk_ui.png)
+![apk](/_images/apk_ui.png)
 
 界面上有三个按钮，分别是功能分别是bindService(绑定Service), unbindService(解除绑定Service), killProcess(杀死Service进程)。
 
 从左往右，依次点击界面，可得：
 
-![apk](\_images\logcat_BinderSimple.png)
+![apk](/_images/logcat_BinderSimple.png)
 
 
 ----------
