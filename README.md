@@ -117,7 +117,7 @@ Client端
 更多关于Binder示例程序的说明，请查看文章
 
 - [Binder系列7 —— 如何使用Binder](http://www.yuanhh.com/2015/11/22/binder-use/)
-- [Binder系列8 —— 如何使用AIDL](http://www.yuanhh.com/2015/11/22/binder-aidl/)
+- [Binder系列8 —— 如何使用AIDL](http://www.yuanhh.com/2015/11/23/binder-aidl/)
 
 
 
