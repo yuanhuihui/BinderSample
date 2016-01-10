@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppBinderDemo</string>
+    <string name="remote_service_unattached">unattached.</string>
+    <string name="remote_service_connected">connected.</string>
+    <string name="remote_service_disconnected">disconnected.</string>
+
+    <string name="btn_bind">Bind</string>
+    <string name="btn_unbind">Unbind</string>
+    <string name="btn_kill">Kill</string>
+
+    <string name="kill_success">Killed success</string>
+    <string name="kill_failure">Killed failure</string>
+
+    <string name="binding">binding...</string>
+    <string name="unbinding">unbinding...</string>
+
+
+</resources>
